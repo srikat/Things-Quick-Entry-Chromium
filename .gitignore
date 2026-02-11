@@ -1,0 +1,6 @@
+.claude/
+.zed/
+.DS_Store
+settings.local.json
+*.xpi
+*.zip
