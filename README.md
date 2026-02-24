@@ -1,3 +1,5 @@
+Update: This is no longer needed for Helium. Things 3 now natively supports quick entry autofill for Helium.
+
 # Things Quick Entry for Helium browser
 A Chrome extension that sends the current tab's title and URL to **Things 3** for Mac. This is meant for users of [Helium](https://helium.computer/) and Ungoogled Chromium browsers.
 
